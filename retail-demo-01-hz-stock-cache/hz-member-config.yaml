@@ -1,0 +1,4 @@
+hazelcast:
+  user-code-deployment:
+    enabled: false
+
